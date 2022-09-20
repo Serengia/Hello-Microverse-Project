@@ -13,7 +13,7 @@
 To get a local copy up, CD into the root folder and run:
 
 ```
-git npm install
+npm install
 ```
 
 ## Authors
