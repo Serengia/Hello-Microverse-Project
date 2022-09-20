@@ -1,6 +1,6 @@
 # Hello Microverse Project
 
-> Description the project.
+> This project involves html-css linters setup. Using this project setup will help you catch potential css style error and problems. The additional Webhint linting will greatly improve your site's accessibility and SEO.
 
 ## Built With
 
